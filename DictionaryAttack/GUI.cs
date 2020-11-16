@@ -86,7 +86,7 @@ namespace DictionaryAttack
         }
         private void buttonHelp_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("help.chm"); //se afiseaza help-ul asociat
+            System.Diagnostics.Process.Start("help.chm");
         }
 
   
