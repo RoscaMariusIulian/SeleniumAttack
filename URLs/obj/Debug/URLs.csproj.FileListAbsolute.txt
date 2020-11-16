@@ -1,0 +1,5 @@
+C:\Users\sayka\Desktop\Proiect IP\URLs\bin\Debug\URLs.dll
+C:\Users\sayka\Desktop\Proiect IP\URLs\bin\Debug\URLs.pdb
+C:\Users\sayka\Desktop\Proiect IP\URLs\obj\Debug\URLs.dll
+C:\Users\sayka\Desktop\Proiect IP\URLs\obj\Debug\URLs.pdb
+C:\Users\sayka\Desktop\Proiect IP\URLs\obj\Debug\URLs.csprojAssemblyReference.cache

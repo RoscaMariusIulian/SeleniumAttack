@@ -1,0 +1,5 @@
+C:\Users\sayka\Desktop\Proiect IP\Targets\bin\Debug\Targets.dll
+C:\Users\sayka\Desktop\Proiect IP\Targets\bin\Debug\Targets.pdb
+C:\Users\sayka\Desktop\Proiect IP\Targets\obj\Debug\Targets.csprojAssemblyReference.cache
+C:\Users\sayka\Desktop\Proiect IP\Targets\obj\Debug\Targets.dll
+C:\Users\sayka\Desktop\Proiect IP\Targets\obj\Debug\Targets.pdb

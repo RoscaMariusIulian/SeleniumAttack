@@ -1,0 +1,10 @@
+C:\Users\sayka\Desktop\Proiect IP\Hacking\obj\Debug\Hacking.csprojAssemblyReference.cache
+C:\Users\sayka\Desktop\Proiect IP\Hacking\bin\Debug\Hacking.dll
+C:\Users\sayka\Desktop\Proiect IP\Hacking\bin\Debug\Hacking.pdb
+C:\Users\sayka\Desktop\Proiect IP\Hacking\bin\Debug\Files.dll
+C:\Users\sayka\Desktop\Proiect IP\Hacking\bin\Debug\WebDriver.dll
+C:\Users\sayka\Desktop\Proiect IP\Hacking\bin\Debug\Files.pdb
+C:\Users\sayka\Desktop\Proiect IP\Hacking\bin\Debug\WebDriver.xml
+C:\Users\sayka\Desktop\Proiect IP\Hacking\obj\Debug\Hacking.csproj.CopyComplete
+C:\Users\sayka\Desktop\Proiect IP\Hacking\obj\Debug\Hacking.dll
+C:\Users\sayka\Desktop\Proiect IP\Hacking\obj\Debug\Hacking.pdb
