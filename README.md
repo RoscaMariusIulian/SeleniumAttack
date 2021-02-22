@@ -4,7 +4,7 @@
 
 The challenge of this project was to create an dictionary attack for the login page of an website. For demonstration purposes I used DVWA. (can be found at: http://www.dvwa.co.uk/)
 
-The base idea of the application is to use an crawler to get the xPaths of the username, password and submit button and to insert lists of usernames and passwords in the hope of one working. This comes as an alternative to common known tools like Hydra, John the Ripper, Burp Suite. 
+The base idea of the application is to use an crawler to get the xPaths of the username, password and submit button and to insert lists of usernames and passwords in the hopes of one working. This comes as an alternative to common known tools like Hydra, John the Ripper, Burp Suite. 
 
 The application starts with a GUI in which the user can insert his own xPaths (the user needs to put all the xPaths in place or the crawler will automate the task). There is a background button (creating 10-20 chrome tabs could be CPU intensive)
 ![image](https://user-images.githubusercontent.com/63077197/99292466-ebe04800-2849-11eb-83a3-2814269dcf7b.png)
